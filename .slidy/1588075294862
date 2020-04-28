@@ -1,0 +1,2 @@
+lib/app/shared/auth_controller.dart
+test/app/shared/auth_controller_test.dart

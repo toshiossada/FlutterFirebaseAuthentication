@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "10044809431",
+    "firebase_url": "https://authentication-b500f.firebaseio.com",
+    "project_id": "authentication-b500f",
+    "storage_bucket": "authentication-b500f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10044809431:android:f5741a3b6ce1cbd7b19092",
+        "android_client_info": {
+          "package_name": "com.toshi.FlutterFirebaseAuthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10044809431-r7ukj2amafl0jnslrp53o2vph4t7cd7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toshi.FlutterFirebaseAuthentication",
+            "certificate_hash": "a1c93d84ab1e0a5b586bbf08fd42d8d1ecb5f14a"
+          }
+        },
+        {
+          "client_id": "10044809431-41sq9vph7g6mkphkqd7r1h1cis5sokb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQDRAZO0PFVNiMc1QsvtkWlVutkTBrJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10044809431-41sq9vph7g6mkphkqd7r1h1cis5sokb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10044809431-fmagtng6ip3l46snnmf0k3j63a8jp0hp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.toshi.FlutterFirebaseAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10044809431:android:48d4e02589c1d427b19092",
+        "android_client_info": {
+          "package_name": "com.toshi.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10044809431-84gd3brledkqe0ll0336vc9u2jepcfdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toshi.login",
+            "certificate_hash": "a1c93d84ab1e0a5b586bbf08fd42d8d1ecb5f14a"
+          }
+        },
+        {
+          "client_id": "10044809431-41sq9vph7g6mkphkqd7r1h1cis5sokb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQDRAZO0PFVNiMc1QsvtkWlVutkTBrJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10044809431-41sq9vph7g6mkphkqd7r1h1cis5sokb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10044809431-fmagtng6ip3l46snnmf0k3j63a8jp0hp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.toshi.FlutterFirebaseAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

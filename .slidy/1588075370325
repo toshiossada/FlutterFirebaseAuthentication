@@ -1,0 +1,2 @@
+lib/app/shared/repositories/auth_repository.dart
+test/app/shared/repositories/auth_repository_test.dart
